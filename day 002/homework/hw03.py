@@ -1,1 +1,2 @@
-#concatinacia nishnavs textebis sheertebas
+health = 100
+print(health)

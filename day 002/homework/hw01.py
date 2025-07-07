@@ -1,3 +1,4 @@
-print("blue")
-print("lobiani")
-print("musikis mosmena")
+name  = "ლუკა"
+birthday = 2015
+
+print( "მოგესალმებით " + " " + name + " " + "დაბადების დღე გაქვს" + " " + str(birthday))

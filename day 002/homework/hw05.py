@@ -1,4 +1,7 @@
-name = "andria"
-age = 14
+A = "banana"
+B = "apple"
+C = "mango"
 
-print("me mkvia" + " " + name + " " + "me var" + " " + str (age) + " " + "clis" ) 
+print(A + B + C)
+
+#cvladebshi vinaxavt stringebs da print punkciit gamogvakvs sheertebuli cvladebi
