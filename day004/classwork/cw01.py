@@ -1,7 +1,0 @@
-print(1 + 1)
-print(3-2)
-print(34//2)
-print(22/4)
-print(4*3)
-print(2**4)
-print(40%2)
