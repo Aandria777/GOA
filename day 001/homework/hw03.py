@@ -1,0 +1,1 @@
+#concatinacia nishnavs textebis sheertebas
