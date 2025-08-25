@@ -1,0 +1,1 @@
+#cvladshi shegvidzlia marto erti monacemis shenaxva da listshi mravali monacemis shenaxva ert cvladshi
