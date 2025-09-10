@@ -1,0 +1,1 @@
+#listi gvadzlevs uplebas ert cvladshi shevinaxot ramdenime elementi
