@@ -1,0 +1,1 @@
+# for loopit shegvidzlia mag listsi yvela elementis cal-calke gamotana 
