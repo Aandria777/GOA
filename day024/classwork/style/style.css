@@ -1,0 +1,43 @@
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.square {
+    width: 400px;
+    height: 400px;
+    background-color: orangered;
+}
+
+/* BACKGROUND COLORS START */
+
+.background-yellowgreen {
+    background-color: yellowgreen;
+}
+
+/* BACKGROUND COLORS END */
+
+/* TEXT ALIGN START */
+.text-end {
+    text-align: end;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-start {
+    text-align: start;
+}
+/* TEXT ALIGN END */
+
+/* TEXT COLORS START */
+.text-yellow {
+    color: yellow;
+}
+.text-skyblue {
+    color: skyblue;
+}
+/* TEXT COLORS END */

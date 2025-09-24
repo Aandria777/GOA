@@ -1,29 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <title>Seminar Schedule</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 70%;
+      margin: 20px;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 10px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #ffffff;
+    }
+
+    .day {
+      width: 100px;
+    }
+
+    .time {
+      width: 80px;
+    }
+
+    .topic {
+      text-align: left;
+    }
+  </style>
 </head>
 <body>
-    <h1>seminar</h1>
-<table border="1">
-    <thead>
-        <th style="width: 100%">seminar</th>
-    </thead>
 
-    <tbody>
-        <tr>
-            <td style="width: 50px;">schedule</td>
-        </tr>
+  <table>
+    <tr>
+      <th rowspan="2" class="day">Day</th>
+      <th colspan="2">Schedule</th>
+      <th rowspan="2">Topic</th>
+    </tr>
+    <tr>
+      <th class="time">Begin</th>
+      <th class="time">End</th>
+    </tr>
+    
+    <tr>
+      <td rowspan="2">Monday</td>
+      <td>8:00 a.m.</td>
+      <td>5:00 p.m.</td>
+      <td>Introduction to XML</td>
+    </tr>
+    <tr>
+      <td>8:00 a.m.</td>
+      <td>5:00 p.m.</td>
+      <td>Validity: DTD and Relax NG</td>
+    </tr>
 
-        <tr>
-            <td>begin<td>
-            <td>end</td>
-        </tr>
-    </tbody>
-</table>
+    <tr>
+      <td>Tuesday</td>
+      <td>8:00 a.m.</td>
+      <td>11:00 a.m.</td>
+      <td>XPath</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>11:00 a.m.</td>
+      <td>2:00 p.m.</td>
+      <td>XSL Transformations</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2:00 p.m.</td>
+      <td>5:00 p.m.</td>
+      <td></td>
+    </tr>
 
+    <tr>
+      <td>Wednesday</td>
+      <td>8:00 a.m.</td>
+      <td>12:00 p.m.</td>
+      <td>XSL Formatting Objects</td>
+    </tr>
+  </table>
 
 </body>
 </html>

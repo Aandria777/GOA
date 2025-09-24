@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nested Table Example</title>
+  <style>
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      text-align: center;
+      padding: 6px;
+    }
+
+    .nested-table {
+      border: none;
+    }
+
+    .nested-table td, .nested-table th {
+      border: 1px solid black;
+      padding: 4px;
+    }
+
+    h3 {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <th rowspan="2">CI</th>
+      <th rowspan="2">All Genders</th>
+      <th colspan="2">By Gender</th>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <table class="nested-table">
+          <tr>
+            <th>Males</th>
+            <th>Females</th>
+          </tr>
+          <tr>
+            <td>9215604</td>
+            <td>4512358</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th>Rural</th>
+      <td>6521458</td>
+      <td colspan="2">4215389</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td colspan="2">4152348</td>
+    </tr>
+  </table>
+
+</body>
+</html>
