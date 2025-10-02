@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: pink;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+.lebron {
+    display: flex;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+.lebron img {
+    width: 20%;
+}
+
+.lebron p {
+    color: darkblue;
+    font-size: 18px;
+    flex: 1;
+    margin-top: 70px;
+}
