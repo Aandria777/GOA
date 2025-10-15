@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: line-through;
+    text-shadow: 3px 2px 2px black;
+}
+
+.unordered-1{
+color: blue;
+text-align: center;
+
+}
+
+.unordered-2{
+    color: blue;
+    text-align: center;
+    margin: 10px;
+}
+
+body{
+    background-color:white
+}
