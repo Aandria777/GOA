@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.la{
+    background-color: purple;
+    margin: 30%;
+    padding: 1%;
+}

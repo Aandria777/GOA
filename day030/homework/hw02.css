@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: white
+}
+.css{
+    text-align: center;
+    text-shadow: 2px 3px 2px ;
+}
