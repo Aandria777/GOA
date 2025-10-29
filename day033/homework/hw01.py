@@ -1,0 +1,1 @@
+# roca punkcias argumenti ar gadaecema man tavisit icis ra mishvneloba unda gamoiknos
