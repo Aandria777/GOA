@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(to left,rgba(0, 128, 0, 0.238), rgba(0, 0, 255, 0.468));
+}
+
+.cats{
+    text-align: center;
+    color: blueviolet;
+}
+
+.cats-text{
+    text-align: center;
+    color: blue;
+}
+
+.img{
+    display: block;
+    margin-right: 20px;
+}
+
+.pat{
+    display: flex;
+    color: brown;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
