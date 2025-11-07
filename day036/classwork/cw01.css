@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@100..900&display=swap');
+
+.roboto-font {
+  font-family: "Noto Sans Georgian", sans-serif;
+  color: brown;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  font-style: italic;
+  font-variation-settings: "wght" 200;
+}
+
+.h1-font{
+  color: brown;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+
