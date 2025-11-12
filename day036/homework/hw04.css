@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@100..900&display=swap');
+
+.txt-img{
+    font-family: "Noto Sans Georgian", sans-serif;
+    color: rgb(255, 217, 0);
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    font-style: italic;
+}
+
+h1{
+    color: gold;
+    text-align: center;
+}
+
+.img{
+    display: block;
+    margin: 10px;
+}
+
+.txt-img{
+    display: flex;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@100..900&display=swap');
+
+.txt-img2{
+    font-family: "Noto Sans Georgian", sans-serif;
+    color: rgb(255, 217, 0);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.img2{
+    display: block;
+    margin: 12px;
+}
+
+.txt-img2{
+    display: flex;
+}
