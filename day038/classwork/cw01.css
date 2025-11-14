@@ -1,0 +1,37 @@
+
+@font-face {
+    font-family: "Roboto";
+    src: url(./assets/fonts/Roboto/Roboto-VariableFont_wdth\,wght.ttf);
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h1{
+    color: green;
+    text-align: center;
+}
+
+.txt-img{
+    color: green;
+    text-align: center;
+    display: block;
+    font-family: "roboto";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+body{
+    background-color: black;
+}
+
+.img{
+    display: block;
+    margin: 5px;
+}
+
